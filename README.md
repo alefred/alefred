@@ -8,7 +8,7 @@ Hi! My name is Luis Alfredo.
 
 ## **About Me**
 
-- 🔭 I’m currently working as a Cloud Enginneer
+- 🔭 I’m currently working as a Cloud Architect, DevOps Engineer
 
 - 🌱 I’m currently learning CI/CD tools , Github Actions - Azure DevOps 
 
